@@ -1,6 +1,6 @@
 # clone_flutter_travel_ui
 
-The codes of clone coding about Flutter Bottom Navigation Barat 'Pesa' Youtube channel
+The codes of clone coding about Flutter Bottom Navigation Bar at 'Pesa' Youtube channel
         
 <a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/1.gif" width="350"></a> 
 
